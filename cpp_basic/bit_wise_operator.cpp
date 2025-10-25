@@ -40,6 +40,7 @@ int main (){
 
     // binary to decimal
 
+
     int dec = 1000;
     int result = 0, mul = 1;
     while(dec != 0){
@@ -54,3 +55,4 @@ int main (){
 
 
 }
+
